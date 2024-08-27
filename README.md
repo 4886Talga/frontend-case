@@ -33,7 +33,7 @@ Ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/brewery-finder.git
+   git clone https://github.com/4886Talga/frontend-case.git
    cd brewery-finder
 
    ```
@@ -42,19 +42,19 @@ Ensure you have the following installed on your machine:
 
    ```bash
    npm install
+   # or
+   yarn install
+
    ```
-
-# or
-
-yarn install
 
 3. Start the development server:
 
-````bash
+```bash
 npm start
 # or
 yarn start
 
+```
 
 ## Folder Structure
 
@@ -90,8 +90,7 @@ To run tests for the application, use the following command:
 npm test
 # or
 yarn test
-
-Tests are located in the tests folder and use Jest and React Testing Library.
+```
 
 ## Acknowledgements
 
@@ -99,4 +98,3 @@ Tests are located in the tests folder and use Jest and React Testing Library.
 - **React & Tailwind CSS**: For the tools used in building the UI.
 - **React Router**: For handling routing and navigation.
 - **Jest & React Testing Library**: For testing libraries and tools.
-````
