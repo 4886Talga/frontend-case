@@ -49,12 +49,12 @@ Ensure you have the following installed on your machine:
 
 3. Start the development server:
 
-```bash
-npm start
-# or
-yarn start
+   ```bash
+   npm start
+   # or
+   yarn start
 
-```
+   ```
 
 ## Folder Structure
 
