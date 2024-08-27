@@ -1,0 +1,12 @@
+{
+  "id": "5128df48-79fc-4f0f-8b52-d06be54d0cec",
+  "name": "Mock Brewery",
+  "brewery_type": "Micro",
+  "street": "123 Mock St",
+  "city": "Mock City",
+  "state_province": "Mock State",
+  "postal_code": "12345",
+  "country": "Mock Country",
+  "phone": "123-456-7890",
+  "website_url": "http://mockbrewery.com"
+}
